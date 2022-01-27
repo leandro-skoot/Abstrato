@@ -1,0 +1,13 @@
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.exe
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.deps.json
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.json
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.dev.json
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfo.cs
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\leand\source\repos\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.genruntimeconfig.cache
